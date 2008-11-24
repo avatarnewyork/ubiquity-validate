@@ -1,0 +1,1 @@
+This is a plugin for the FireFox extention Ubiquity.  You can find out more information about Ubiquity here: http://labs.mozilla.com/2008/08/introducing-ubiquity/ .  This plugin allows you to validate the current page html/css on-the-fly using the w3c validator.  It also provides a link to the validator page to view more information about your page.
